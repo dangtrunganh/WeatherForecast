@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="hint_search_city_state">City, State</string>
+    <string name="search_ok">OK</string>
+    <string name="title_name_of_city">Tên thành phố:</string>
+    <string name="name_of_city">Hà Nội</string>
+    <string name="title_name_country">Tên quốc gia:</string>
+    <string name="name_of_country">Việt Nam</string>
+    <string name="temperature">36</string>
+    <string name="clouds">Clouds</string>
+    <string name="have_cloud">Mây</string>
+    <string name="wind">Gió</string>
+    <string name="day_update">Ngày cập nhật</string>
+    <string name="days_next">Các ngày tiếp theo</string>
+</resources>
